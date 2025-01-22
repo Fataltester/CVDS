@@ -24,10 +24,10 @@ git commit -m "mensaje" : comando realizar un commit con un mensaje de por medio
 
 6.
 
-1.Vamos a agregar tambien una carpeta de imagenes que tenemos para este markdown al git, por lo que haremos otro git add
+1. Vamos a agregar tambien una carpeta de imagenes que tenemos para este markdown al git, por lo que haremos otro git add
 ![](/images/6.1.png)
 
-2.Despues vamos a realizar un commit con mensaje para asi realizar la copia de los archivos y relacionarlos con un mensaje
+2. Despues vamos a realizar un commit con mensaje para asi realizar la copia de los archivos y relacionarlos con un mensaje
 ![](/images/6.2.png)
 
 3.Para enlazar el repositorio local con el base, utilizamos el comando remote y el enlace que nos da github para poder conectar los dos repositorios
@@ -35,7 +35,7 @@ git commit -m "mensaje" : comando realizar un commit con un mensaje de por medio
 4. finalmente hacemos el push para subir los archivos al repositorio github remoto, pasamos todo del local(origin) a la rama master del repositorio remoto.
 ![](/images/6.4.png)
 
-7.Prueba de los commits que realizamos
+7. Prueba de los commits que realizamos
 ![](/images/7.png)
 
 8.
@@ -46,11 +46,13 @@ git commit -m "mensaje" : comando realizar un commit con un mensaje de por medio
 Owner: Juan David\
 Collaborator: Santiago 
 
-6.Al realizar el push al mismo tiempo, El Owner obtuvo el error, por lo que solo el colaborador pudo realizar exitosamente la transacción
+6. Al realizar el push al mismo tiempo, El Owner obtuvo el error, por lo que solo el colaborador pudo realizar exitosamente la transacción
 ![](/images/parte2_6.png)
 ![](/images/parte2_6_1.png)
 
-7.Para observar los cambios realizados, primero cerramos el archivo y luego realizamos un pull
+7. Para observar los cambios realizados, primero cerramos el archivo y luego realizamos un pull
 ![](/images/parte2_62.png)
 
 Al realizar el pull se revisaron los cambios que había hecho el colaborador y se aceptaron todos los cambios que realizó
+
+8. para este punto se generara el cambio en intelliJ:
