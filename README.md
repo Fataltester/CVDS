@@ -1,5 +1,9 @@
 ## Laboratorio 01 Parte I (Individual)
+## Integrantes
 ### Juan David Martinez Mendez
+### Santiago Gualdron Rincon
+
+### Respuestas Parte I (Individual)
 1. Crear un repositorio localmente
 Para el desarrollo de este punto, creamos una carpeta llamada "cvds" en la parte de descargas y por medio del comando git init inicialimos el repositorio dentro de la carpeta, obviamente sin antes estar ubicados dentro de esa carpeta por medio del comando cd
 ![](/images/1.png)
@@ -41,7 +45,7 @@ git commit -m "mensaje" : comando realizar un commit con un mensaje de por medio
 8.
 ![](/images/8.png)
 
-## Parte II (Trabajo en Parejas)
+## Respuestas Parte II (Trabajo en Parejas)
 1. 
 Owner: Juan David
 Collaborator: Santiago 
@@ -61,7 +65,7 @@ Al realizar el pull se revisaron los cambios que habia hecho el colaborador y se
 9. se muestra una pantalla dividida en 3 secciones donde la izquierda estan los cambios en local, derecha los cambios del repositorio remoto y el centro el resultado.
 ![](/images/merge_intellij.png)
 
-## Parte III (Trabajo en Parejas)
+## Respuestas Parte III (Trabajo en Parejas)
 1. Hay una mejor forma de trabajar con git para no tener conflictos?\
 Si, se pueden utilizar diferentes ramas entre los usuarios que estan editando los archivos, para que cada uno tenga los cambios individuales;
  y cuando se terminen de generar los cambios, se hace un _Pull Request_ para mirar si son aceptados o no a la version final.
