@@ -84,4 +84,7 @@ feature/juan
 5. 
 ![](images/merge_aceptjuan.PNG)
 
+6.
+![](images/rule.PNG)
+
 
