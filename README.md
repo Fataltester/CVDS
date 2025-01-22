@@ -43,7 +43,7 @@ git commit -m "mensaje" : comando realizar un commit con un mensaje de por medio
 
 ## Parte II (Trabajo en Parejas)
 1. 
-Owner: Juan David\
+Owner: Juan David
 Collaborator: Santiago 
 
 6. Al realizar el push al mismo tiempo, El Owner obtuvo el error, por lo que solo el colaborador pudo realizar exitosamente la transaccion
@@ -74,14 +74,14 @@ feature/santiago
 
 4. 
 feature/santiago
-![](images/featureSantiago.png)\
-
+![](images/featureSantiago.png)
+![](images/pullRequestSantiago.png)
+![](images/pullRequestSantiagoGitHub.png)
 feature/juan 
-![](images/PRjuan.PNG)\
+![](images/PRjuan.PNG)
 
 
 5. 
 ![](images/merge_aceptjuan.PNG)
-![](images/pullRequestSantiago.png)
-![](images/pullRequestSantiagoGitHub.png)
+
 
