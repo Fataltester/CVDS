@@ -55,4 +55,4 @@ Collaborator: Santiago
 
 Al realizar el pull se revisaron los cambios que había hecho el colaborador y se aceptaron todos los cambios que realizó
 
-8.En esta parte 
+8.En esta parte nuevamente realizamos la edición y demas para generar el error
