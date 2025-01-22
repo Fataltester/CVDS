@@ -65,7 +65,8 @@ Al realizar el pull se revisaron los cambios que habia hecho el colaborador y se
 1. Hay una mejor forma de trabajar con git para no tener conflictos?\
 Si, se pueden utilizar diferentes ramas entre los usuarios que estan editando los archivos, para que cada uno tenga los cambios individuales;
  y cuando se terminen de generar los cambios, se hace un _Pull Request_ para mirar si son aceptados o no a la version final.
-2. 
+2. Es una herramienta utilizada para la revision y aceptacion de cambios en un proyecto
+los cambios se pueden visualizar, aceptar y combinar con el proyecto contenido en la rama master
 3. se generaron las ramas para cada uno de los usuarios:
 ![](images/ramaJuan.png)
 feature/santiago
