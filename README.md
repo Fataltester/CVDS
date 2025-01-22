@@ -57,4 +57,5 @@ Al realizar el pull se revisaron los cambios que había hecho el colaborador y s
 
 8. para este punto se generara el cambio en intelliJ:
 ![](/images/parte2_8.png)
-
+9. se muestra una pantalla dividida en 3 secciones donde la izquierda estan los cambios en local, derecha los cambios del repositorio remoto y el centro el resultado.
+![](/images/merge_intellij.png)
