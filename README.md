@@ -68,10 +68,13 @@ Si, se pueden utilizar diferentes ramas entre los usuarios que estan editando lo
 2. 
 3. se generaron las ramas para cada uno de los usuarios:
 ![](images/ramaJuan.png)
-![](images/ramaGualdron.png)
+![](images/ramaGualdron.png)\
+4.\
+feature/juan 
+![](images/PRjuan.PNG)\
+
 feature/santiago
-4. 
 ![](images/featureSantiago.png)
-=======
-4. feature/juan
-master
+
+5. 
+![](images/merge_aceptjuan.PNG)
