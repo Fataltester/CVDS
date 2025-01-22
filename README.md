@@ -71,3 +71,5 @@ Si, se pueden utilizar diferentes ramas entre los usuarios que estan editando lo
 ![](images/ramaGualdron.png)
 4. 
 ![](images/featureSantiago.png)
+![](images/pullRequestSantiago.png)
+![](images/pullRequestSantiagoGitHub.png)
