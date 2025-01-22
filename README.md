@@ -56,3 +56,5 @@ Collaborator: Santiago
 Al realizar el pull se revisaron los cambios que había hecho el colaborador y se aceptaron todos los cambios que realizó
 
 8. para este punto se generara el cambio en intelliJ:
+![](/images/parte2_8.png)
+
