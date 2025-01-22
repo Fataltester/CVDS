@@ -54,3 +54,5 @@ Collaborator: Santiago
 ![](/images/parte2_62.png)
 
 Al realizar el pull se revisaron los cambios que había hecho el colaborador y se aceptaron todos los cambios que realizó
+
+8.En esta parte 
