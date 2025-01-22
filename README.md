@@ -3,9 +3,12 @@
 1. Crear un repositorio localmente
 Para el desarrollo de este punto, creamos una carpeta llamada "cvds" en la parte de descargas y por medio del comando git init inicialimos el repositorio dentro de la carpeta, obviamente sin antes estar ubicados dentro de esa carpeta por medio del comando cd
 ![](/images/1.png)
+
 2. Para agregar un archivo al repositorio local utilizamos el comando git add nombre del archivo, para verificar que el archivo se ha agregado usaremos el comando git status
 ![](/images/2.png)
+
 ![README en visual](/images/0.png)
+
 3. 
 
 git add: agrega el contenido de todos los archivos al indice, con el objetivo de preparar este archivo para la proxima confirmación
@@ -23,10 +26,20 @@ git commit -m "mensaje" : comando realizar un commit con un mensaje de por medio
 
 1.Vamos a agregar tambien una carpeta de imagenes que tenemos para este markdown al git, por lo que haremos otro git add
 ![](/images/6.1.png)
+
 2.Despues vamos a realizar un commit con mensaje para asi realizar la copia de los archivos y relacionarlos con un mensaje
 ![](/images/6.2.png)
+
 3.Para enlazar el repositorio local con el base, utilizamos el comando remote y el enlace que nos da github para poder conectar los dos repositorios
+
 4. finalmente hacemos el push para subir los archivos al repositorio github remoto, pasamos todo del local(origin) a la rama master del repositorio remoto.
 ![](/images/6.4.png)
+
+7.Prueba de los commits que realizamos
+![](/images/7.png)
+
+8.
+![](/images/8.png)
+
 
 
