@@ -41,5 +41,8 @@ git commit -m "mensaje" : comando realizar un commit con un mensaje de por medio
 8.
 ![](/images/8.png)
 
+## Segunda parte del laboratorio
+Owner: Juan David Martinez
+Collaborator: Santiago Gualdron
 
 
