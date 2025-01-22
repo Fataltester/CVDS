@@ -46,4 +46,10 @@ git commit -m "mensaje" : comando realizar un commit con un mensaje de por medio
 Owner: Juan David
 Collaborator: Santiago 
 
+6.Al realizar el push al mismo tiempo, El Owner obtuvo el error, por lo que solo el colaborador pudo realizar exitosamente la transacción
+![](/images/parte2_6.png)
 
+7.Para observar los cambios realizados, primero cerramos el archivo y luego realizamos un pull
+![](/images/parte2_62.png)
+
+Al realizar el pull se revisaron los cambios que había hecho el colaborador y se aceptaron todos los cambios que realizó
